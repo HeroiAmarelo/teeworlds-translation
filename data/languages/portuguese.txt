@@ -1,4 +1,3 @@
-
 ##### translated strings #####
 
 %d Bytes
@@ -107,7 +106,7 @@ Connecting to
 == A Conectar a
 
 Connection Problems...
-== Problemas na conecção!
+== Problemas na conexão!
 
 Console
 == Console
@@ -251,7 +250,7 @@ Hook
 == Gancho
 
 Host address
-== Direcção do Host
+== Direção do Host
 
 Hue
 == Matiz
@@ -287,7 +286,7 @@ Language
 == Língua
 
 Length:
-== Longitude:
+== Tempo:
 
 Lht.
 == Luz
@@ -308,7 +307,7 @@ Max Screenshots
 == Máx. de Capturas de Tela
 
 Max demos
-== Demos maximas
+== Demos máximas
 
 Maximum ping:
 == Ping máximo:
@@ -440,7 +439,7 @@ Red team wins!
 == Ganhou a equipa vermelha!
 
 Refresh
-== Actualizar
+== Atualizar
 
 Refreshing master servers
 == A Actualizar servidores
@@ -452,7 +451,7 @@ Remove
 == Eliminar
 
 Remove friend
-== Deixar de ser amigo
+== Deixar de Ser Amigo
 
 Rename
 == Renomear
@@ -676,13 +675,14 @@ no limit
 ##### needs translation #####
 
 Game paused
-== 
+== Pausa de Jogo
 
 Respawn
-== 
+== Respawn
 
 Show only chat messages from friends
-== 
+== Mostrar apenas mensagens no chat dos amigos
 
 ##### old translations #####
 
+###Some words need changes because PT language have now changed in PT_PT!###
